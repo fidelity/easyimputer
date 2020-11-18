@@ -1,0 +1,16 @@
+  
+=========================================================================
+==      NOTICE file for use with the Apache License, Version 2.0       ==
+=========================================================================
+
+easyimputer
+Copyright 2020 FMR LLC.
+
+This library includes software developed at FMR LLC (https://www.fidelity.com/).
+
+The library utilizes or derived from the following works and hence the dependency installed separately.
+- pandas | https://github.com/pandas-dev/pandas | 3-Clause BSD License 
+- numpy  | https://github.com/numpy/numpy | 3-Clause BSD License
+- sklearn | https://github.com/scikit-learn/scikit-learn | 3-Clause BSD License
+- datawig | https://github.com/awslabs/datawig | Apache 2.0 License
+- missingpy | https://github.com/epsilon-machine/missingpy | GNU General Public License v3.0
